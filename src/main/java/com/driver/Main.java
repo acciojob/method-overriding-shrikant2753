@@ -6,7 +6,6 @@ public class Main {
         b.meth();
         A a = new B();
         a.meth();
-
     }
 }
 
